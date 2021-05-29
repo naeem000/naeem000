@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Developement
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Anything nice and interesting
-- 📫 Reach me via Telegram  https://t.me/naeemmanuri000
+- 📫 Reach me via Telegram  https://t.me/naeemmansuri000
 
 <!---
 naeem000/naeem000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
