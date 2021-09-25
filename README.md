@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @naeem000
 - 👀 I’m interested in Android Developement
-- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Anything nice and interesting
 - 📫 Reach me via Telegram  https://t.me/naeemmansuri000
 
